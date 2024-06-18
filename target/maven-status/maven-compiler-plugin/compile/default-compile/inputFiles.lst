@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\controller\CategoriaServlet.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\controller\LibroServlet.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\jpa\exceptions\IllegalOrphanException.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\jpa\LibroJpaController.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\bean\BeanCategoria.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\bean\BeanLibro.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\entidades\Categoria.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\entidades\Libro.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\jpa\CategoriaJpaController.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\jpa\exceptions\PreexistingEntityException.java
+C:\Users\Admin\Documents\NetBeansProjects\biblo2\src\main\java\com\emergentes\jpa\exceptions\NonexistentEntityException.java
